@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ANTONIOjose123456789
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+title: Voice Clone
+emoji: 🏃
+colorFrom: blue
+colorTo: blue
+sdk: gradio
+sdk_version: 4.5.0
+app_file: app.py
+pinned: false
+license: mit
+---
 
-<!---
-ANTONIOjose123456789/ANTONIOjose123456789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
